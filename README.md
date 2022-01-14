@@ -18,3 +18,7 @@
 5. Add the sqlite-jdbc-[VERSION].jar to the classpath.
 6. Apply and close.
 
+
+*No Releases will be published as of now*
+*Last edited by acrticsludge on 14/01/2022 at 15:55 P.M.(3:55 P.M.)*
+
