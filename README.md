@@ -14,7 +14,7 @@
 1. Right click your project.
 2. Go to "Build Path".
 3. Click Configure Build Path.
-4. Go to libraries and select "Add Extrenam Jar".
+4. Go to libraries and select "Add External Jar".
 5. Add the sqlite-jdbc-[VERSION].jar to the classpath.
 6. Apply and close.
 *above instructions are only for eclipse IDE for java programming.*
