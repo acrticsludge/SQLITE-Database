@@ -4,7 +4,7 @@
 -> sqlite-jdbc-[VERSION].jar
 
 **Instructions**:
-1. Download sqlite-jdbc-[VERSION].jar from the sqlite/jdbc repository.
+1. Download sqlite-jdbc-[VERSION].jar from the sqlite/jdbc repository.(or here in the Referenced Libraries directory)
 2. Add the jar to class path
 3. create a directory in the C drive named "sqlite"
 4. Drop the sqlite-jdbc-[VERSION].jar in the directory.
