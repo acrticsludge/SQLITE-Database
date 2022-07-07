@@ -1,4 +1,4 @@
-# SQLite Database for my upcoming project *Secret*
+# SQLite Database for my project 
 
 **Dependencies**:
 -> sqlite-jdbc-[VERSION].jar
